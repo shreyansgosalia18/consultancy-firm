@@ -1259,7 +1259,7 @@ header {}
 }
 
 .pss-box .title-b {
-  color: #fff;
+  color: #45b89b;
   font-size: 60px;
   font-weight: 600;
   letter-spacing: 0;
@@ -6112,7 +6112,7 @@ footer {}
 }
 
 .h4-slider-full-box {
-  padding: 246px 0 250px;
+  padding: 280px 0 250px;
   position: relative;
   z-index: 3;
 }
